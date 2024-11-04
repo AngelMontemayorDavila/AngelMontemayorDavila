@@ -1,15 +1,9 @@
 <div align="center">
     <img src="Static/HELLO_WORLD.gif"  />
-<table>
-  <tr>
-    <td><h3>Angel Montemayor Davila</h3></td>
-    <td align="center">
+    <h3>Angel Montemayor Davila</h3>
       <a href="https://www.linkedin.com/in/angel-montemayor-davila">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
       </a>
-    </td>
-  </tr>
-</table>
 </div>
 <br>
 <br>
