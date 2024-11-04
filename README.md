@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Static/HELLO_WORLD.gif"  />
+    <img src="Static/HELLO_WORLD.gif"/>
     <h3>Angel Montemayor Davila</h3>
       <a href="https://www.linkedin.com/in/angel-montemayor-davila">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -14,6 +14,7 @@
 ###
 
 <p align="center">I’m a dedicated and passionate student with strong skills in C++, Java, and Python, focused on data analysis and software development. My goal is to create impactful solutions that make a difference in people’s lives.</p>
+<br>
 
 ###
 
